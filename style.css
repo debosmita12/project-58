@@ -1,0 +1,15 @@
+<ul class="menu">
+>li class="link">About</li>
+>li class="link">Favourite books</li>
+>li class="link">My work</li>
+>li class="link">Inspiration</li>
+>li class="link">Contact</li>
+</ul>
+.menu
+list-style:none;
+font-family:cursive;
+float:right;
+top:10px;
+right:30px;
+cursor:pointer;
+colour:black;
